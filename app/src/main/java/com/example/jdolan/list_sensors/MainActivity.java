@@ -1,5 +1,8 @@
 package com.example.jdolan.list_sensors;
 
+/* Project to list all the Phone Sensors by jdolan
+   TODO List: Fix the Menu */
+
 import java.util.List;
 
 import android.hardware.Sensor;
